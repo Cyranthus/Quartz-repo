@@ -87,13 +87,13 @@ A un tratto, uno strano scintillio cattura la loro attenzione: un luccichio che 
 
 ![embedded image](https://assets.legendkeeper.com/7a758026-9d85-4c6b-9d4d-8158592f480a.jpg "Attachment")
 
-![embedded image](https://assets.legendkeeper.com/4178c0ad-9a44-4047-b6b7-8fd4bcee87e7.jpg "Attachment")
+![embedded image|500](https://assets.legendkeeper.com/4178c0ad-9a44-4047-b6b7-8fd4bcee87e7.jpg "Attachment")
 
 Nonostante qualche piccola difficoltà iniziale, il gruppo riesce a cavarsela e a gestire il problema alla vecchia maniera, portando a casa un bel gruzzolo in gemme.
 
 Inebriati dall’adrenalina della battaglia, decidono d'importunare ulteriormente la fauna locale, infastidendo alcune piccole ranocchiette a tre occhi, le quali, ovviamente, chiamano subito la madre, una creatura tanto grossa quanto infuriata:
 
-![embedded image](https://assets.legendkeeper.com/d158675a-e765-400d-a2ec-845c443b892b.webp "Attachment")
+![embedded image|500](https://assets.legendkeeper.com/d158675a-e765-400d-a2ec-845c443b892b.webp "Attachment")
 
 Dopo aver superato anche questo ostacolo — alterando irrimediabilmente il delicato equilibrio dell’ecosistema locale — i nostri irrispettosi eroi decidono di riposarsi prima di riprendere il cammino.
 
@@ -107,7 +107,7 @@ _Resistete, restate vivi e uniti, e non fatevi scovare dai Cercatori. Vi riconta
 
 La figura che gli sta parlando, inizialmente offuscata e poco nitida, verso fine messaggio si rivela essere questa:
 
-![embedded image](https://assets.legendkeeper.com/bdf98279-6e10-447b-a2c9-4911a846f67b.png "Attachment")
+![embedded image|500](https://assets.legendkeeper.com/bdf98279-6e10-447b-a2c9-4911a846f67b.png "Attachment")
 
   
 Al mattino, Viktor/Daienne informa i suoi compagni dello strano messaggio ricevuto in sogno e, durante la discussione, Neg ha un’idea brillante: provare a richiamare Alotta e mostrargli l’immagine della donna sognata da Daienne con un’illusione.  
@@ -239,7 +239,7 @@ Ovviamente, gli spavaldi non si trattengono dal toccare l’arma, la quale, inas
 
 Subito dopo la visione, una figura traslucida appare davanti al gruppo:
 
-![[Valerin.webp]]
+![[Valerin.webp|500]]
 
 Ma a differenza delle altre visioni, questa non svanisce: respinge con forza colui che aveva toccato la spada e assume una strana posa, pronto al combattimento. Contemporaneamente, altre quattro figure traslucide si sollevano dai corpi presenti nella sala e si dispongono anch’esse in posizioni marziali, ferme e vigili, come in attesa.
 
@@ -283,22 +283,22 @@ Esattamente sotto i nostri precipitosi (ba-dum tsss!) amici si apre un lago, ali
 
 Il gruppo viene destato dalla meraviglia in modo del tutto inaspettato: una mostruosa creatura dalle quattro braccia, con una bocca che si apre in verticale lungo il volto, piomba sul gruppo a cavallo di un drago d’ombra. A seguirlo, un piccolo stormo di draghi d'ombra più giovani.
 
-![[gug.webp]]
+![[gug.webp|500]]
 
-![[dragonUmbral.webp]]
+![[dragonUmbral.webp|500]]
 
 La lotta infuria durante la caduta: nonostante il netto svantaggio ambientale (e i numerosi rischi di rimetterci la pelle), i nostri eroi riescono a gestire la situazione.
 
 Blu, nel bel mezzo dello scontro (forse pervaso dall’adrenalina, forse cogliendo qualcosa di insondabile e imperscrutabile, annidato nell’animo del drago! forse nell’anima di ogni drago malvagio del mondo! Qualcosa che risuona in lui e nei suoi compagni! Qualcosa di sfuggente e intangibile come la fiamma di una solitaria candela nella notte più buia) prende un’incomprensibile decisione: cavalcare il drago d’ombra disarcionandone il mostruoso cavaliere.  
 Con incredibile agilità riesce davvero a buttarlo giù e a mettersi a cavalcioni del drago.
 
-![[blueDragon.webp]]
+![[blueDragon.webp|500]]
 
 Inutili, però, i suoi tentativi di domarlo: il drago non risponde, anzi continua a cercare di divorare i nostri eroi in caduta libera. Topper, imprecando in più lingue sconosciute improperi indirizzati a Blu, pone fine alla vita del drago con un precisissimo raggio rovente che fora il cranio del mostro.
 
 Blu, con mezza faccia imbrattata di sangue e cervella di drago, rimane sotto shock. Doppo e Feisty, profondamente colpiti dalle sue gesta, si stringono a lui; Feisty, commossa, decide di rianimare la creatura, offrendo a Blu e Doppo un’ultima occasione di redimere l'anima nera del drago.
 
-![[DoppoDragon.webp]]
+![[DoppoDragon.webp|500]]
 
 Purtroppo Giacomino, questo è nome scelto nei pochi secondi della sua nuova esistenza, non apprezza i tentativi del gruppo di domarlo: si dibatte furioso dalla stretta di Doppo, ringhiando, graffiando e opponendo resistenza a ogni tentativo di calmarlo.
 
@@ -312,7 +312,7 @@ Solo a pochi secondi dall’impatto, Topper lancia caduta morbida, facendo atter
 
 L’umore non era così a terra dai tempi della morte di… Rugol… Krucol… ah no, Krugol, pace all’anima sua. Nonostante Giacomino sia entrato nel gruppo graffiando, azzannando e soffiando energia negativa, la sua presenza ha comunque lasciato un segno nel cuore dei nostri inclusivi eroi.
 
-![[giacomino.webp]]
+![[giacomino.webp|500]]
 
 
 ## Le Montagne della Mezzanotte
@@ -322,13 +322,13 @@ il cammino si allontana dal lago e dal fiume, puntando verso le catene montuose,
 
 I nostri intrepidi esploratori cercano riparo tra gli alberi della foresta per concedersi un po' di meritato riposo… riposo che però viene interrotto da delle intriganti ninfe fungine: Candida, Tigna e Micelia.
 
-![[nymph.png]]
+![[nymph.png|500]]
 
 Blu e Doppo inizialmente sembrano apprezzare le avvenenti signorine... ma a un certo punto, i maleducati, le ripudiano allontanandole in malo modo. Dopo un po' di riluttanza, anche Topper, Neg e Daienne intervengono in difesa dei loro compagni profumai, ponendo fine alla faccenda incenerendo le povere creature micotiche.
 
 Il racconto precedente potrebbe non essere del tutto fedele alla realtà e le tre splendide ninfe potrebbero non essere state così avvenenti:
 
-![[Leshy.webp]]
+![[Leshy.webp|500]]
 
 Da sottolineare l'immancabile ingestione di materia organica poco raccomandabile da parte di Doppo.
 
@@ -436,3 +436,165 @@ Ora ricordi l'infinita superficie d'acqua sotto un caotico cielo stellato...
 Ora sei nuovamente sull'infinita superficie d'acqua sotto un caotico cielo stellato...
 Ricordi con apprensione e preoccupazione la tiefling morta per colpa tua, ripensi a com’era… ma la sua immagine non si manifesta in modo tangibile davanti a te…
 E questa piccola consapevolezza ti emoziona, ti rassicura, ti rende felice…
+
+
+## Ritorno a Tahl’sindarra
+
+Doppo, Neg e Blu raccolgono i corpi dei loro amici e i resti dei due draghi d’ombra, con ciuschi annessi; Blu attiva il dispositivo per aprire il portale e i nostri esausti eroi fanno ritorno alla sede della S.A.P., a Tahl’sindarra.
+I membri della S.A.P. aiutano il gruppo, e i corpi dei compagni caduti vengono portati in infermeria.
+
+Rhaevan Varconis e Yavanna raggiungono l’infermeria e comprendono subito la gravità della situazione; Rhaevan chiede al gruppo di raccontare l’accaduto, rimanendo molto sorpreso nel vedere le tecnologie “ciuscose” (o tek, come le chiama la S.A.P.) utilizzate e adattate a dei draghi d’ombra.
+Rhaevan chiede quindi a Yavanna di recuperare i diamanti necessari per i rituali di resurrezione; fortuna vuole che l’apparizione di Arthur sia in grado di eseguirli, ma il sacrificio materiale va comunque compiuto.
+
+Nel frattempo, i nostri amici discutono e analizzano i resti dei draghi, comprendendo che la tecnologia è simile a quella dei Cercatori, ma molto diversa da quella “abbozzata” usata sui non morti da Doppler (che, stranamente, non è stato interpellato né incluso nella discussione… 😏).
+
+Inoltre, Rhaevan informa il gruppo sugli accadimenti di Piren’s Bluff:  
+*"Beh, visto che siete qui, ne approfitto per aggiornarvi su un paio di questioni: l’incidente di Piren’s Bluff ovviamente non poteva essere insabbiato… è stato decisamente troppo, anche per loro. Pertanto, i Cercatori stanno diffondendo la notizia che la città è stata attaccata e distrutta da un’antica calamità: una Progenie di Rovagug.  
+Stanno definendo l’evento come il chiaro presagio di un’antica profezia, secondo cui queste Progenie si risveglieranno, portando alla fine del mondo… Ovviamente, i Cercatori sono ora completamente impegnati nel tentativo di scongiurare il realizzarsi di questa profezia...
+Stiamo continuando a raccogliere informazioni per cercare di capire quali saranno le loro prossime mosse..."*
+
+Yavanna ritorna portando diversi diamanti e polvere di diamante. Il gruppo decide di resuscitare prima di tutto Feisty, pur essendo incerti sull’effettiva efficacia dell’incantesimo su di lei.  
+Blu canalizza Arthur tramite la sua piuma e lancia l’incantesimo con successo, riportando Feisty in vita. Dopo aver festeggiato il ritorno della loro amica, Doppo prende la piuma bianca, richiama Arthur e lancia l’incantesimo di resurrezione su Viktor…
+
+
+## Viktor - 2
+
+Sembra passata un'eternità da quando hai sentito Neg richiamarti in lui, da allora hai rivisto e rivissuto momenti e ricordi con la tua famiglia... hai ripensato anche ai tuoi amici, ma tutti risultano meno tangibili e più fumosi, è molto difficile ricordarli nei dettagli... tranne che per Topper, lui ti appare nitido e tangibile, come tua moglie e tua figlia.
+Non sai da quanto sei a questa festa con tua moglie Lucille, state scherzando e ridendo tra voi, mentre ballate, circondati dalla musica e dal vociare degli altri invitati...
+A un certo punto, senti una mano alle tue spalle che ti tocca, una mano gentile che ti fa voltare: Davanti a te appare la figura di un ragazzo biondo, alto, di bell'aspetto che ti guarda con un caldo sorriso sul viso... La figura ti è familiare, l'hai già vista altre volte in passato, anche se mai in modo così concreto e tangibile...
+Ti rivolge la parola: "*I tuoi amici ti stanno cercando... ti vogliono molto bene, sai?... E hanno ancora molto bisogno di te... Posso riportarti da loro, se vuoi...*" E ti allunga una mano...
+Viktor: "*Ma...ma... Lucille...*".
+Il ragazzo biondo ti guarda e ti sorride nuovamente: "*tua moglie e tua figlia ti attenderanno, saranno sempre qui, con te*".
+Viktor: "*Ma l'ho appena ritrovata. No tu non capisci, anche lei è un'anomalia, è come noi, siamo tutti collegati! Dobbiamo riportare indietro anche loro, fa tutto parte di un disegno! Lucille! Cassandra!! Ti prego riportaci tutti insieme ti scongiuro! Se davvero esiste un dio che ci ama ti permetterà di farlo!*".
+Il ragazzo biondo, ora ricordi il nome, Arthur, ti guarda, lo vedi sinceramente triste per la tua sofferenza e ti risponde "*mi dispiace Viktor, non posso fare nulla per loro... loro non possono venire con noi...*".
+Viktor si volta indietro, guarda sua moglie e sua figlia per un istante. China il capo e porge la mano verso Arthur: "*Promettimi che torneremo a prenderle. Promettimelo!*"
+Arthur ti prende la mano, ti tira a sé, ti abbraccia (un abbraccio caldo e... reale... ti sembra passata un'eternità dall'ultima volta che hai sentito un abbraccio così nitido) e ti sussurra all'orecchio "*sai bene anche tu che non posso farti questa promessa.*"
+
+Viktor si risveglia gridando a gran voce un nome: Lucille.
+Doppo, Neg, Blue e Feisty piangono lacrime di gioia e abbracciano Viktor, felici di rivederlo in vita, ma quasi subito Viktor nota l'assenza del loro compagno più anziano, Topper; solo ora vede, accanto al suo letto, il corpo senza vita del vecchio gnomo burbero...
+Dopo qualche minuto, grazie anche all'aiuto dei suoi compagni, Viktor comincia a ricordare qualcosa dell'accaduto, si alza dal suo letto, prende la piuma di Arthur e inizia il rituale per riportare in vita Topper...
+
+
+## Topper - 3
+
+Sorridi calorosamente, genuinamente felice e con non poco trasporto emotivo alla vista indefinita della Tiefling che tanto speravi si fosse infine salvata "*Una cosa buona sono riuscitito a farla alla fine, eh? razza di un vecchio pervertito che non sono altro....*" ridi fra le lacrime "*lei è salva... non è una maga, non conosce l'arcano... ma è salva*".
+Il vortice di voci e immagini sfocate continuano a turbinare attorno a te che ora cerchi di valutare la situazione con più calma e serenità; con estrema fatica esclami "*questa non è può essere la morte, forse... la sua anticamera? i suoi cancelli? chi muore dovrebbe finire in un dato luogo in base al suo agire moralistico/divino che lo premiano o puniscono per ciò che ha fatto o che era... ma di questo luogo, non ho mai sentito parlare prima...*".
+Ti lisci la barba con fare concentrato, desiderando ardentemente un sigaro "*...posso dedurre che la nostra innata abilità di evocare le vite di alcuni predestinati e di poterci evocare l'un l'altro come prima Doppo ha fatto con me, abbia a tutti gli effetti una corrispondenza intrinseca nella spiegazione di cosa stia succedendo, ma il modo e sopratutto il motivo mi sfuggono del tutto...*" sospiri "*visto che Blu, Doppo e Neg sono certamente vivi, avendoli visti indefiniti, è assai probabile che tenteranno di usare Arthur per riportare Daienne e me in vita... ma qui si pone un dilemma: e se da qui, da dove sono ora, potessi finalmente capire qualcosa del modo di vivere e rinascere di quei pezzi di merda flogocitanti stronzi putrefatti dei cercatori? se potessi carpire anche sono un cazzo di -capello- in più che ci dia una risposta una guida un FOTTUTO QUALCOSA! E potessi farlo avere ai miei compagni tramite evocazione... non sarebbe la cosa migliore da fare in assoluto?*"
+Nonostante la tua allenata disciplina mentale, fai una gran fatica a mantenere insieme questo ragionamento... Inoltre, a parte l'emozione legata alla Tiefling, la rabbia e concitazione verso i Cercatori sono sempre più... Annacquati diciamo.
+Durante il tuo flusso di coscienza, ti ritrovi in uno studio, il tuo vecchio studio, dove per innumerevoli ore hai studiato i misteri dell'arcano e padroneggiato il potere della Fiamma... E ti appare un sigaro in mano... Non riesci a dare una dimensione temporale al tutto... A un certo punto però, la porta d'ingresso alle tue spalle si apre... Ti volti e vedi davanti a te un ragazzo alto, biondo, di bell'aspetto e... Nitido e incredibilmente tangibile. Ti sorride, entra nello studio e mentre si guarda intorno ti parla: "*Ciao Topper, sono venuto a prenderti, i tuoi amici e compagni ti stanno cercando, hanno bisogno di te*" e così dicendo ti allunga la mano...
+Ci metti un pò a riconoscerlo, il giovane davanti a te è Arthur: "*Ah! Arthur, immaginavo il tuo arrivo...*" Ti guardo attorno "*dunque sono morto davvero*".
+Arthur ti guarda sempre sorridendoti e ti risponde semplicemente "*sì*".
+Il giovane ragazzo biondo si siede nella poltrona di fronte alla scrivania e ti guarda, attendendo una tua decisione...
+Rispondi: "*Sono in un dilemma Arthur... I miei amici possono evocarmi, quindi avrei modo di comunicare cose che potrei scoprire solo... Da questa parte dello specchio. Per la prima volta, sono lo gnomo giusto al posto giusto: tutte le conoscenze ottenute dagli scritti di Vickster, le informazioni di Feisty, gli antichi libri dei Sap e ciò che ho visto e sentito coi miei occhi sui cercatori... Da dove, se non dal regno dei morti, posso tentare di aggirare le loro bugie, le pareti difensive che proteggono la verità, e poter dire ai miei amici "ecco la verità" e metterli in tempo in guardia contro cosa sta succedendo*".
+Arthur ti guarda e risponde: "*Le fiamme sono da sempre un elemento che separa, che crea divisione e distanza... luce e ombra, caldo e freddo. Non mi stupisce che sia proprio ciò a cui ti sei aggrappato per tutta la vita. Sei stato spesso allontanato dagli altri e hai scelto, perfezionandolo, l’elemento che meglio rappresenta la separazione. Sono i tuoi sensi di colpa, la tua difficoltà nel fidarti e nell’affidarti agli altri — che mascheri come senso del dovere — a farti dire queste parole? ...Ti mancano i tuoi compagni?*"
+I tuoi occhi si fanno acquosi: "*Sì... Ma io sono buono solo a distruggere! Non mi ricapiterà un occasione in cui posso aiutarli davvero, prima che sia troppo tardi!*", dici sbattendo il pugno sulla poltrona.
+Arthur ti risponde: "*Forse Topper, nonostante la tua vasta conoscenza, l'argomento in cui sei più ignorante sei proprio tu... Sei capace di costruire, di fare tanto di più... Semplicemente fin'ora hai scelto -o sei stato portato a scegliere- la strada che conosci meglio, quella facile, quella del distruggere... Ma hai dimostrato di poter fare anche altro... Ad esempio con la ragazza Tiefling.*"
+Man mano che Arthur ti parla, ti rendi conto che in lui c'è anche altro; ha sempre la sua aria rassicurante, ma a un certo punto è come si si fossero aggiunte almeno una, forse due altre voci, di sottofondo, alla sua...
+"*Perché non darti un'altra possibilità, per conoscerti meglio...? Per farti conoscere dai tuoi amici?... Come hai detto tu, le tue capacità le avrebbero potute sfruttare anche senza riportarti da loro... Anche senza il tuo permesso... Ma hanno scelto di riaverti con loro, hanno scelto di riavere Topper... Tu ora, cosa scegli...?*"
+Sorridi amaramente "*Sai che hai ragione Arthur? Vorrei aver conosciuto Vickster...*" Gli occhi brillano e tutto a un tratto, terminando il tuo sigaro in un sol colpo, salti giù dalla sedia ed esclami "*So che cosa devo fare! LORO LO MERITANO!*"
+Le voci scrivono nella tua mente formule arcane sconosciute, formule che non erano tue, ma che ora sono tue... oppure... forse sono sempre state tue...?
+Vedi che Arthur ti sorride di rimando, si sposta dietro di te, ti mette le mani sulle spalle, si china e ti sussurra all'orecchio "*noi siamo, noi viviamo, noi ricordiamo*" Questa frase la senti nitidamente anche se detta da un numero incalcolabile di voci, tra le quali ti rendi conto esserci pure la tua; "*noi siamo, noi viviamo, noi ricordiamo*".
+
+
+## Il gruppo finalmente riunito
+
+Topper si risveglia nell'infermeria, con il viso di Arthur sopra di lui, che poco dopo svanisce lasciando il posto a quello di Viktor.
+Il gruppo esulta per il ritorno di Topper, accogliendolo e festeggiandolo a modo suo:
+
+![[amio.jpg]]
+
+Quasi nessuno aveva fatto caso a Doppler quando era entrato nella stanza, diversi minuti prima... Non appena vede Topper tornare in vita, Doppler esce dalla stanza, in silenzio...
+
+I nostri redivivi eroi si concedono finalmente una notte di meritato riposo, accompagnati nel sonno dalle dolci melodie che Viktor intona dopo aver trovato almeno cinque ottimi motivi per continuare a vivere… e dopo aver finalmente ritrovato i colori della sua prima, vera maschera: quella di Viktor.
+
+L’indomani, il gruppo comincia i preparativi per tornare alle Montagne della Mezzanotte con un solo obiettivo in mente: la vendetta (e proseguire la ricerca della visione, certo... anche quello).
+
+Dopo qualche giorno di preparativi e del duro lavoro di Blu, il gruppo è finalmente pronto a partire
+
+![[macgyver GIF.gif]]
+*Blu al lavoro!*
+
+
+## Discesa, second try
+
+I nostri determinati eroi ripercorrono la strada verso il lago Nirthan in poche ore e senza intoppi; ignorano la cittadella abbandonata dall’altra parte del lago e decidono di buttarsi direttamente giù dalla cascata, con la nave e tutto il resto.
+Fortunatamente la caduta libera, inizialmente incontrollata, non provoca gravi problemi ai nostri eroi, ormai pronti e determinati a superare qualsiasi ostacolo o imprevisto!
+
+Se non che…
+
+## Potere dal Basso e Lotta di Classe
+
+I nostri intrepidi, in caduta libera, hanno quasi raggiunto il placido laghetto dove è stato seppellito il povero Giacomino (pace all’anima sua), quando, a un tratto, il vigile occhio di Doppo individua degli strani movimenti che si allontanano tra l’erba alta, dalla riva del lago.
+
+Doppo e Blu si scambiano uno sguardo d'intesa:
+
+![[92Ul.gif]]
+
+E, senza ulteriori indugi, si gettano all’inseguimento delle sconosciute creature!  
+Avvicinandosi a esse, i nostri determinati eroi intuiscono che le creature stanno strisciando tra l’erba come serpenti; Blu cerca d’intavolare una franca discussione sparando loro contro, mentre Doppo gli corre direttamente addosso.
+
+Le due disperate creature reagiscono all’aggressione difendendosi con le loro potenti abilità psichiche: Doppo blocca la sua corsa, rimanendo stordito; campi di nebbia ammaliante si formano attorno ai nostri aggressivi avventurieri e visioni terribili li assalgono!
+
+Blu viene completamente soggiogato dagli aggrediti proletari aberranti; una chiamata sorge vigorosa dal suo cuore, una voce si leva sopra una moltitudine di oppressi! È il momento della lotta! È il momento della resistenza contro i potenti! È il momento di lottare e morire nel nome dell’Imperatore Decadente, la nostra somma guida verso un futuro prospero, libero e giusto per tutti!  
+
+E con questo nobile sentimento a guidargli la mano, Blu spara a Doppo alle spalle.
+
+Nonostante la confusione e il trambusto iniziale, i nostri eroi riescono infine ad abbattere le due povere creature.  
+Topper identifica le creature come aberrazioni note con il nome di **Seugathi**; si narra che siano seguaci dell’antico Imperatore Decadente, leggendaria creatura — si pensa un antico Neothelid — a capo di un’organizzazione segreta chiamata “Il Sindacato”, impegnata nella lotta di classe in difesa delle povere aberrazioni vermiformi contro lo sfruttamento e la caccia perpetrati dalle altre razze.
+Questa scoperta colpisce profondamente il gruppo, specialmente Doppo e Blu, il quale in prima persona ha sentito l’importanza di questa causa; i nostri valenti combattenti si ripromettono quindi di portare avanti la causa dei Compagni Seugathi e del grande Compagno Imperatore Decadente.
+
+
+## Seguendo nuovamente la visione...
+
+Il gruppo riprende il cammino seguendo il fiume. Una volta arrivati nei pressi della montagna vulcanica, il gruppo discute animatamente sul da farsi... Durante la discussione, uno strano messaggio viene riprodotto tramite il dronape di Blu: una sorta di invito affinché il gruppo si presenti al cospetto del Sommo Nocthysax, incontrastato dominatore delle Montagne della Mezzanotte.
+
+
+## ...Anzi no, andiamo da Nocthysax!
+
+I nostri intrepidi raggiungono facilmente l’ingresso della città di Nocthysax: un'ampia caverna che conduce all’interno dell’enorme cratere del vulcano dalla luce pallida.  
+La città si rivela costruita interamente in ossidiana: gli edifici sono tutti parallelepipedi di diverse dimensioni, accalcati in modo caotico. Numerose statue raffiguranti un possente drago si trovano lungo le strade della città, soprattutto lungo il viale principale che conduce a quella che sembra un’enorme cattedrale (simile a San Pietro), anch’essa interamente fatta di ossidiana, con un’alta torre sulla sommità dell’edificio che sovrasta l’intera città.
+
+La maggior parte degli abitanti sembra essere composta da Gug, ma in giro vi sono anche altri umanoidi in catene; in particolare, sono molto numerosi dei piccoli umanoidi simili a gnomi.  
+La pallida luce bianca che illumina l’intera area e le nubi emesse dal vulcano proviene proprio dalla cima della torre.
+
+Alcuni Gug armati di ciuschi, guidati da un drow (il cui nome è Lashunta) in armatura ciuscosa, accolgono gli avventurieri e li scortano lungo la via principale per portarli al cospetto del grande Nocthysax.
+
+![[Lashunta RingwearIII.png|350]]
+
+
+## L'incontro con Nocthysax
+
+Il gruppo viene portato all’interno dell’enorme cattedrale d’ossidiana; le navate laterali del piano terra ospitano diverse uova e cuccioli di drago d’ombra, sorvegliati e nutriti da alcuni Gug e da schiavi umanoidi. Diversi altari ai lati della zona centrale riportano effigi draconiche e statue raffiguranti sempre Nocthysax.
+
+L’area centrale è occupata da una sorta di enorme ascensore. Lashunta fa salire i nostri valorosi eroi sulla piattaforma e attiva il meccanismo…
+Il marchingegno si ferma all’ultimo piano della torre, in un’ampia sala con vaste aperture sul vuoto. 
+Un ampio tappeto rosso si estende di fronte agli eroi fino a un enorme trono sul quale siede il Grande e Magnifico Nocthysax.
+
+Gran parte del corpo dell’oscura figura è ricoperta e rimpiazzata da metallo e protesi di vario tipo.  
+La stanza è illuminata da una soffusa luce biancastra-azzurrognola; la fonte più luminosa è proprio l’enorme figura di Nocthysax, che emette fasci luminosi verso l’alto dal suo dorso. È questa la luce che viene proiettata e amplificata dalle pareti d’ossidiana, riverberando sulle nubi nere che si sollevano dal lago di lava alle spalle della torre.
+
+Nonostante l’aria minacciosa, il drago accoglie il nostro gruppo di eroi in modo cordiale e gentile, offrendo addirittura loro il più grande degli onori: diventare diretti esecutori della volontà del Magnifico Nocthysax.  
+I nostri promettenti candidati sembrano quasi persuasi dall’offerta magnanima dello splendido Nocthysax…
+L’unica cosa che devono fare per entrare nelle grazie del drago è eseguire una semplice missione di sterminio, pratica alquanto familiare ai nostri cari protagonisti; Nocthysax ha proprio occhio per questo genere di talento…  
+
+Se non fosse che…
+
+Sfortunatamente, la suddetta missione di eliminazione ha come bersaglio un piccolo e innocente gruppo di Seugathi, insediatosi in una delle caverne nelle vicinanze…  
+Se c’è una cosa che non manca al nostro gruppo di neo-difensori del proletariato nematoide è l’integrità e la totale dedizione nella salvaguardia dei diritti delle aberrazioni vermiformi; persino la possibilità di dover combattere contro un possente dragone mezzo meccanizzato non è sufficiente a dissuaderli!
+Il gruppo si getta contro il grande dragone e i suoi seguaci, facendosela un pò sotto.
+
+Il combattimento infuria nella grande sala: a discapito di qualche difficoltà iniziale, il nostro ormai esperto manipolo di combattenti sfrutta a dovere (finalmente) tutte le capacità in loro possesso, riuscendo a eliminare le guardie personali di Nocthysax e a fare a pezzi gran parte dei suoi armamenti e delle protesi tecnologiche.  
+Il possente drago sembra sul punto di cadere, finalmente… Spogliato di tutte le sue parti metalliche, Nocthysax appare come il residuo macilento di quello che una volta era un possente drago: ali spezzate, zampe posteriori e coda strappate, e un arto anteriore mozzato…
+
+Spinto dalla rabbia e dalla disperazione, Nocthysax richiama tutte le energie che gli rimangono (sfruttando in qualche modo la sfera luminosa che ora appare chiaramente nel petto) e lancia un ruggito di rabbia pura: l’intera area piomba in un’oscurità innaturale che annulla e opprime ogni fonte di luce… tranne quella che sprigiona Nocthysax tramite la sfera luminosa…
+
+L’intera area pare di conformazione diversa: è sempre la cima della torre, ma la stanza circostante sembra molto più ampia. Dietro al trono di Nocthysax, vicino alle aperture sul vuoto, s’intravede una serie di macchinari collegati a tre cilindri di vetro; da essi partono diversi cavi che si collegano a quello che sembra una sorta di piedistallo.
+
+Il drago, nel frattempo, continua a raccogliere energia, infine sprigionando un soffio di plasma (fulmine misto a fuoco) che investe i nostri coraggiosi sindacalisti. Il drago continua a soffiare, ben oltre i limiti di un normale soffio draconico, attingendo sempre più energia dalla sfera, energia che comincia a consumarlo dall’interno…
+
+Ma i nostri indomiti cacciatori di oppressori non si fanno intimidire: continuano il loro assalto al drago, riuscendo infine a ucciderlo decapitandolo male (nel senso letterario del termine).
+
+Non appena il grande Nocthysax cade, la sala del trono comincia a ritornare al suo aspetto precedente: l’oscurità si ritira, cala il silenzio e solo il bagliore della sfera illumina l’area…
+
+Blu prova a raccoglierla, sentendo subito l’immenso potenziale di quell’energia pervaderlo, energia che pare dello stesso tipo che i nostri intrepidi uccisori di draghi utilizzano per richiamare le apparizioni o per ricaricare i misteriosi oggetti ciuscosi.
+![[white_energy_ball_3_by_venjix5_dcs91cy.png|center]]
